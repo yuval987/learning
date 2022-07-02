@@ -1,1 +1,2 @@
 test
+i would to know whats happen when i use on git reset
